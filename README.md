@@ -125,9 +125,6 @@ The experiments demonstrated the trade-off between model interpretability and pr
 │   ├── preprocessing.py
 │   ├── cross_validation.py
 │   └── evaluation.py
-├── results/
-│   ├── figures/
-│   └── metrics/
 └── docs/
     └── report.pdf
 ```
